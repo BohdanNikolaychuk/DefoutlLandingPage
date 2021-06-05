@@ -24,7 +24,7 @@ hr {
 /*___________Header______________*/
 
 .header {
-  background: url("..images/back.png") no-repeat;
+  background: url("images/back.png") no-repeat;
   height: 100vh;
   width: 100%;
   background-size: cover;
